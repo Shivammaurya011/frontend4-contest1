@@ -36,9 +36,7 @@ function App() {
     console.log(password);
     console.log(cpassword);
   }
-
   
-
   return (
     <div className="App container">
       <form className='container m-5 p-5'>
